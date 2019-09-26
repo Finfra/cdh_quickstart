@@ -3,8 +3,8 @@
 # Info
 * Installation Document https://www.cloudera.com/documentation/enterprise/latest/topics/installation.html
 ## Password
-* root : nowage1234
-* mysql (scm amon rman hue hive sentry nav navms oozie) : Same with id (ex: scm/scm )
+* root/mysqlroot : nowage1234
+* mysql (scm amon rman hue hive sentry nav navms oozie) : Same with root (ex: scm/nowage1234 )
 ## Host Ip
 * 172.1.2.3
 
